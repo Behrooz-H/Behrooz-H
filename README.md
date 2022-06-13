@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Behrooz
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning hoow to make the model ta=raining more robust
-- 💞️ I’m looking to collaborate on any project needing a good data science background from data EDA to modelling as well as MLOPS and pipeline maintenance.
+- 🌱 I’m currently learning how to make the model training more robust to the noisy data
+- 💞️ I’m looking to collaborate on any project needing a good data science background from data EDA to model design and fine tunning as well as MLOPS and pipeline maintenance.
 - 📫 reach me via my linkedin page
 
 <!---
