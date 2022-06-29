@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Behrooz
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning how to make the model training more robust to the noisy data 
+- 🌱 I’m currently working on how to make the model training more robust to the noisy data in various machine learning approaches, also on the next generation of Convolution Neural Networks for the detection of the objects for annotation. My big concern on the clustering algorithms id the ability to provide a fully distributed and parallel algorithm that can be easily used by the distributed cloud based processing units over a big network with less dependencies between each small processing unit.    
 
 - 💞️ I’m looking to collaborate on any project needing a good data science background from data EDA to model design and fine tunning as well as MLOPS and pipeline maintenance.
 
