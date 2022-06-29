@@ -3,9 +3,8 @@
 - 🌱 I’m currently working on how to make the model training more robust to the noisy data in various machine learning approaches, also on the next generation of Convolution Neural Networks for the detection of the objects for annotation. My big concern on the clustering algorithms id the ability to provide a fully distributed and parallel algorithm that can be easily used by the distributed cloud based processing units over a big network with less dependencies between each small processing unit.    
 
 - 💞️ I’m looking to collaborate on any project needing a good data science background from data EDA to model design and fine tunning as well as MLOPS and pipeline maintenance.
-
-- 📫 reach me via my linkedin page
-[![](https://img.shields.io/badge/Linkedin-Behrooz-blue)](https://www.linkedin.com/in/behrooz-hosseini/)
+- 📖: My scientific publicatins can be found here:  [![](https://img.shields.io/badge/Google-Scholar-blue)](https://scholar.google.com/citations?hl=en&user=wjyNgi4AAAAJ&view_op=list_works&sortby=pubdate)
+- 📫 reach me via my linkedin page:  [![](https://img.shields.io/badge/Linkedin-Behrooz-blue)](https://www.linkedin.com/in/behrooz-hosseini/)
 <!---
 Behrooz-H/Behrooz-H is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
